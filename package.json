@@ -1,0 +1,34 @@
+{
+  "name": "rexrandom",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A simple utility library for generating random values like strings, booleans, numbers, colors, and dates.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random",
+    "string",
+    "boolean",
+    "date",
+    "color",
+    "number",
+    "utility"
+  ],
+  "author": "Pritiranjan Patra",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/rexrandom.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/rexrandom/issues"
+  },
+  "homepage": "https://github.com/your-username/rexrandom#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
