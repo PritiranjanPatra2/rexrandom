@@ -11,7 +11,7 @@
 
 ### How to Customize:
 
-- **GitHub Profile**: Replace `https://github.com/your-username` with your actual GitHub profile URL.
+- **GitHub Profile**: Replace `https://github.com/PritiranjanPatra2` with your actual GitHub profile URL.
 - **Issues & Repository**: Make sure to update the links to the actual repository and issue tracker once you have it set up on GitHub.
 - **License**: If you decide on a different license, update the license information accordingly.
 

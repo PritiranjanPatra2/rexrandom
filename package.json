@@ -20,12 +20,12 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/rexrandom.git"
+    "url": "https://github.com/PritiranjanPatra2/rexrandom.git"
   },
   "bugs": {
-    "url": "https://github.com/your-username/rexrandom/issues"
+    "url": "https://github.com/PritiranjanPatra2/rexrandom.git"
   },
-  "homepage": "https://github.com/your-username/rexrandom#readme",
+  "homepage": "https://github.com/PritiranjanPatra2/rexrandom.git",
   "engines": {
     "node": ">=14.0.0"
   },
